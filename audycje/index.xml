@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Audycje on Notatki z Broadcasting</title>
+    <title>Audycje miesięczne on Notatki z Broadcasting</title>
     <link>https://pim73.github.io/broadcasting/audycje/</link>
-    <description>Recent content in Audycje on Notatki z Broadcasting</description>
+    <description>Recent content in Audycje miesięczne on Notatki z Broadcasting</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-PL</language><atom:link href="https://pim73.github.io/broadcasting/audycje/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl-PL</language>
+    <lastBuildDate>Tue, 13 Apr 2021 12:48:45 +0200</lastBuildDate><atom:link href="https://pim73.github.io/broadcasting/audycje/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Broadcasting - grudzień 2015</title>
       <link>https://pim73.github.io/broadcasting/audycje/broad-122015/</link>

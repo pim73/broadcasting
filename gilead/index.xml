@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gilead on Notatki z Broadcasting</title>
+    <title>Szkoła Gilead on Notatki z Broadcasting</title>
     <link>https://pim73.github.io/broadcasting/gilead/</link>
-    <description>Recent content in Gilead on Notatki z Broadcasting</description>
+    <description>Recent content in Szkoła Gilead on Notatki z Broadcasting</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-PL</language><atom:link href="https://pim73.github.io/broadcasting/gilead/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl-PL</language>
+    <lastBuildDate>Tue, 13 Apr 2021 12:48:45 +0200</lastBuildDate><atom:link href="https://pim73.github.io/broadcasting/gilead/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zakończenie 137 klasy Gilead</title>
       <link>https://pim73.github.io/broadcasting/gilead/gilead-137/</link>
